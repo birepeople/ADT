@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/birdpeople/CLionProjects/ADT/inc/BST.h
+def.h
+/Users/birdpeople/CLionProjects/ADT/inc/def.h
+
+/Users/birdpeople/CLionProjects/ADT/inc/def.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+algorithm
+-
+
+/Users/birdpeople/CLionProjects/ADT/src/main.cpp
+../inc/BST.h
+/Users/birdpeople/CLionProjects/ADT/inc/BST.h
+stack
+-
+

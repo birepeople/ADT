@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ADT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADT">
+				<Option output="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/ADT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADT"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADT/fast">
+				<Option output="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/ADT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/birdpeople/CLionProjects/ADT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADT/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/birdpeople/CLionProjects/ADT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/BST.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/BiTree.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/CDLL.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/CSqQ.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/DLL.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/DQ.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/Graphy.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/SLL.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/SLLQ.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/SLLS.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/SqL.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/SqS.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/Str.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/def.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/heap.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/inc/main.h">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/BST.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/BiTree.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/CDLL.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/CSqQ.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/DLL.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/DQ.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/Graphy.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/SLL.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/SLLQ.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/SLLS.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/SqL.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/SqS.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/Str.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/heap.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/src/main.cpp">
+			<Option target="ADT"/>
+		</Unit>
+		<Unit filename="/Users/birdpeople/CLionProjects/ADT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
